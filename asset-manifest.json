@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shkholikov/react-hooks-todo/static/css/main.e6c13ad2.css",
+    "main.js": "/shkholikov/react-hooks-todo/static/js/main.1713ebd0.js",
+    "static/js/787.30237536.chunk.js": "/shkholikov/react-hooks-todo/static/js/787.30237536.chunk.js",
+    "index.html": "/shkholikov/react-hooks-todo/index.html",
+    "main.e6c13ad2.css.map": "/shkholikov/react-hooks-todo/static/css/main.e6c13ad2.css.map",
+    "main.1713ebd0.js.map": "/shkholikov/react-hooks-todo/static/js/main.1713ebd0.js.map",
+    "787.30237536.chunk.js.map": "/shkholikov/react-hooks-todo/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1713ebd0.js"
+  ]
+}

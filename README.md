@@ -2,7 +2,9 @@
 
 After cloning this project run the following command in the project folder to install all dependencies for.
 
-### `npm install`
+```
+npm install
+```
 
 After then run the application by the following command. 
 

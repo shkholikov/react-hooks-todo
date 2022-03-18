@@ -1,6 +1,6 @@
 # Getting started with this project
 
-After cloning this project run the following command in the project folder to install all dependencies for.
+To run this project clone it and run the following command in the project folder to install all dependencies.
 
 ```
 npm install
